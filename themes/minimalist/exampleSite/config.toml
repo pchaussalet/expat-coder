@@ -1,23 +1,21 @@
-baseurl = "https://pchaussalet.github.io/expat-coder/"
-languageCode = "fr-fr"
-title = "Expat coder"
-relativeurls = true
-canonifyurls = true
+baseurl = "https://yourdomain.com/"
+languageCode = "en-us"
+title = "John Doe's blog"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
-disqusShortname = "expatcoder"
-theme = "minimalist"
+disqusShortname = "spf13"
+theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "Pierre Chaussalet"
-    site_description = "Un codeur loin de chez lui."
-    location = "SF Bay Area"
+    site_author = "John Doe"
+    site_description = "The awesome blog of John Doe."
+    location = "Earth"
     # All paths are relative to the baseurl. Put your files
     # somewhere in the static folder.
-    avatar = "img/profile.jpg"
+    avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Expat coder"
+    header_title = "Customizable header title"
     copyright = "Powered by [Hugo](http://gohugo.io)."
 
     # Enable gogle analytics by entering your tracking code
@@ -27,11 +25,11 @@ theme = "minimalist"
     # Add your social network accounts to the profile section on the left
     # by entering your username. The links to your account will be
     # create automatically.
-    twitter   = "pchaussalet"
-    facebook  = "pchaussalet"
-    linkedin  = "pchaussalet"
+    twitter   = "spf13"
+    facebook  = ""
+    linkedin  = ""
     behance   = ""
     dribbble  = ""
     instagram = ""
-    github    = "pchaussalet"
-    gplus     = "pchaussalet"
+    github    = "digitalcraftsman"
+    gplus     = ""
