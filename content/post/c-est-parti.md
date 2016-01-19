@@ -10,7 +10,7 @@ Une fois n'est pas coutume, je vais commencer par mon deuxième jour en terre am
 Aujourd'hui, premier jour de salarié US, avec juste le décalage horaire qui va bien pour être d'attaque assez tôt. Enfin soyons honnête, 5:00 du matin, c'est carrément raisonnable, je m'attendais à pire.
 Bref, une fois levé et le petit déjeuner pris (sans café, grrr...), j'ai commencé à bosser en espérant qu'un de mes collegues me ferait signe en arrivant au boulot, histoire que je ne me pèle pas trop dehors (oui, c'est la californie, mais il fait froid et humide ici aussi, des fois). Au bout de 3h30, j'ai craqué, d'autant que la réunion d'équipe étant à 9:00, je ne voulais pas faire mauvaise impression dès le début. Moralité, j'ai passé 15 minutes le c** dans ma bagnole à attendre que quelqu'un se radine... Et on me pare de la rigueur américaine !
 
-Premier progrès par rapport à mon premier séjour : j'ai réussi à ne finir mon assiette ce midi. Et j'ai même pas pris de soda !
+Premier progrès par rapport à mon premier séjour : j'ai réussi à ne pas finir mon assiette ce midi. Et j'ai même pas pris de soda !
 
 Ce soir, les choses "sérieuses" ont commencé, premières courses dans un vrai supermarché. Deux conclusions s'imposent: ça n'est visiblement pas le bon endroit pour acheter des fruits et légumes et il va me falloir un certain temps pour m'habituer à leurs tailles de portions.
 Le premier point fait peut-être un peu caricatural, mais je n'ai pas réussi à trouver un truc aussi bête que des tomates ou des courgettes fraiches. Si, si, je voulais vraiment acheter des légumes (une crise de conscience, sans doute) !
