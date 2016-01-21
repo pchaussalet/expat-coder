@@ -1,6 +1,6 @@
 +++
 date = "2016-01-18T23:08:20-08:00"
-tags = ["blog", "american experience", "food"]
+tags = ["american experience", "food"]
 title = "C'est parti"
 
 +++
