@@ -4,7 +4,7 @@ tags = ["american experience", "food"]
 title = "C'est parti"
 
 +++
-Voilà, à priori, je suis enfin un représentant de la fuite des cerveaux français vers l'eldorado californien (vous aussi, vous trouvez que ça fait un peu couv' de l'express, cette phrase ?).
+Bon, à priori, je suis enfin un représentant de la fuite des cerveaux français vers l'eldorado californien (vous aussi, vous trouvez que ça fait un peu couv' de l'express, cette phrase ?).
 Une fois n'est pas coutume, je vais commencer par mon deuxième jour en terre américaine, si vous êtes sage, je vous raconterais le voyage plus tard.
 
 Aujourd'hui, premier jour de salarié US, avec juste le décalage horaire qui va bien pour être d'attaque assez tôt. Enfin soyons honnête, 5:00 du matin, c'est carrément raisonnable, je m'attendais à pire.
