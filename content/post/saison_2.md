@@ -40,9 +40,10 @@ En même temps, pour faire passer, on peut prendre ça:
 ![Coconut coffee](coconut_coffee.jpg)
 C'est marrant comme au bout d'une semaine, je me dis "ok, laisse courir, tu passeras toujours pour un original avec ton café noir sans sucre..." !
 
-Allez, c'est pas tout ça, mais demain c'est Social Security Office pour demander mon numéro de sécu, il faut que j;en garde un peu, je pense qu'il y aura de quoi raconter (enfin pas trop j'espère...).
+Allez, c'est pas tout ça, mais demain c'est Social Security Office pour demander mon numéro de sécu, il faut que j'en garde un peu, je pense qu'il y aura de quoi raconter (enfin pas trop j'espère...).
 
 La suite au prochain épisode.
 Stay tuned,
+
 --
 P.
