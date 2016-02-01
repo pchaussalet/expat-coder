@@ -18,7 +18,7 @@ Quand je pense qu'ils osent me faire des blagues sur le fait qu'en France on pre
 Sinon, autre nouveauté, j'ai participé à mon premier anniversaire par internet. Et ben le gateau, il est meilleur en vrai qu'en numérique... Mais même si la proposition était tentante, je ne suis pas sûr que l'envoi par la poste soit une bonne idée. Enfin c'est gentil d'y avoir pensé ! :)
 
 
-Mince, si on m'avait dit que pour mon enregistrement à la sécu, je ferais un post aussi court, je n'y aurais pas cru ! Chuis deg' , je pensais tout mettre dans celui là, moi... Bon, on verra la prochaine fois, il faut encore que je reçoive na carte, il peut toujours se passer plein de choses d'ici là !
+Mince, si on m'avait dit que pour mon enregistrement à la sécu, je ferais un post aussi court, je n'y aurais pas cru ! Chuis deg' , je pensais tout mettre dans celui là, moi... Bon, on verra la prochaine fois, il faut encore que je reçoive ma carte, il peut toujours se passer plein de choses d'ici là !
 
 La suite au prochain épisode.
 Stay tuned,
