@@ -14,3 +14,16 @@ J'ai quand même réussi à décrocher un "effectivement, ce n'est pas dans le c
 Sinon, je continue dans les visites de maisons, avec une revue des exigences légèrement à la baisse, surtout depuis que j'ai enfin été payé (cool, je vais pouvoir payer mon loyer moi même !). Mais on avance, on avance ! On en est même à remplir un dossier, c'est dire ! Par contre, je pense qu'il va bientôt falloir que je fournisse une analyse ADN, un acte de baptème et un arbre généalogique sur 17 générations...
 
 Ah, oui et pour passer ma frustation, je suis repassé faire un tour dans mon nuveau magasin de musique préféré. Et il y a eu léger craquage, j'avoue... En même temps, c'est les vendeurs qui vont être contents, je vais peut-être arrêter de les souler à essayer toutes les basses du magasin :)
+Et puis avouez que c'est quand même un joli remontant: ![Sub Ray 5](sub_ray5.jpg) 
+
+La suite au prochain épisode.
+
+Stay tuned,
+
+--
+P.
+
+P.S.: Finalement, je vais peut-être m'en sortir de cette histoire de voiture grace à un sympathique collègue qui accepte de me préter sa voiture pour l'exam... J'aurais préféré Audi, mais passer son permis en BMW, ça devrait le faire aussi ;)
+
+P.P.S: Il y en a qui m'ont demandé des photos de mon clapiers, les voilà (ok, je triche, c'est celles du premier jour, mais pour en faire d'autres, il faudrait que je fasse un peu de rangement, d'abord...):
+![Appart 1](appart1.jpg) ![Appart 2](appart2.jpg) ![Appart 3](appart3.jpg) ![Appart 4](appart4.jpg)
