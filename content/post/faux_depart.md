@@ -1,6 +1,6 @@
 +++
 date = "2016-03-26T19:19:00-07:00"
-tags = ["me, myself and I", "house", "gillot pétré"]
+tags = ["me, myself and I", "house", "Tyler Durden"]
 title = "Faux départ !"
 
 +++
