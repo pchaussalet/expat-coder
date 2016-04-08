@@ -640,7 +640,10 @@ hr {
     color: #FFF; }
 
 .post .btn {
-  width: 140px; }
+  width: 140px; 
+  font-size: 1.5em;
+  background-color: rgba(0,0,0,0.02);
+}
 
 .btn.btn-download {
   background-color: #2a373d;
